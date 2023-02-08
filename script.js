@@ -53,3 +53,5 @@ let pollDOM = {
       answers[i].querySelector(".percentage-value").innerText = percentage + "%";
     }
   }
+
+  
